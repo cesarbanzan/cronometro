@@ -1,2 +1,3 @@
-# RythMyth
-juego de ritmo en 2d creado con unity
+# Cronometros
+cronometros creados con unity utilizando invoke y corrutina
+
